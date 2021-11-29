@@ -10,3 +10,4 @@ A Text Editor app made using Java Swing and AWT packages
     ### java editor
     
 ## Project snapshots
+![](text_editor_snap.jpg)
